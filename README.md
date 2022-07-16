@@ -160,7 +160,7 @@
         
 ## Set number of repitions for macro ##
 
-        For i = 1 to 350
+        For i = 1 to ##Number for amount of times for macro to repeat##
 
 
           ' Begin Find
